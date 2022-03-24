@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M3m3D1ct4t0r
-- 👀 I’m interested in game dezign and junk like that 
-- 🌱 I’m currently learning c... (pointers ahhhh)
+- 👀 I’m interested in game dezign and junk like that
+- 🌱 I’m currently learning Flask, ComputerVision, Haskell, Rust, Opperating System ('-'), Violin?
 - 💞️ I’m looking to collaborate on whateves... 
 - 📫 How to reach me mmmmh
 
